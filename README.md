@@ -2,10 +2,10 @@
 my script allows you to use the latest version of the atlas with bss-tools
 
 steps to use:
-download the atlas.lua
-change str12 to newest version of atlas (1.0 or 1.2)
-join game
-execute bsst first
-execute edited atlas
+1.download the atlas.lua
+2.change str12 to newest version of atlas (1.0 or 1.2)
+3.join game
+4.execute bsst first
+5.execute edited atlas
 
 
